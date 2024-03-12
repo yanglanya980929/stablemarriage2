@@ -1,0 +1,11 @@
+Package: stablemarriage2
+Type: Package
+Title: Find a stable matching for any two preference tables 
+Version: 1.0
+Date: 2024-03-12
+Author: Lanya Yang
+Maintainer: Lanya Yang <yangl35@lancaster.ac.uk>
+Description: The stable_marriage function in this package generate a stable matching for any two perference tables
+License: GPL (>= 2)
+Imports: Rcpp (>= 1.0.12)
+LinkingTo: Rcpp
